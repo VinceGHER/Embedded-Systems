@@ -14,5 +14,6 @@ Here is a snapchot of our camera.
 <img width="459" alt="Final_result" src="https://user-images.githubusercontent.com/29159082/219497446-1007c923-bc89-4f19-a2d1-f57b1053dc2e.png">
 
 You can find the complete description of the project in the file "Report.pdf".
+
 This project was realised in the scope of the "Embedded Systems" class thaught by Beuchat René.
 
